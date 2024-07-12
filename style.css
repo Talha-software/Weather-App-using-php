@@ -23,7 +23,7 @@ body {
   height: 60%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-  background: #fafafa;
+  background: #8c8d80;
   font-family: weathericons;
   display: flex;
   align-items: center;
@@ -85,7 +85,7 @@ p {
 }
 p a {
   text-decoration: none;
-  color: #e4d6a7;
+  color: #a88100;
   font-size: 10px;
 }
 .form {
