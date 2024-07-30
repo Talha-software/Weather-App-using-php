@@ -36,7 +36,7 @@ body {
 .widget .weatherInfo {
   flex: 0 0 70%;
   height: 40%;
-  background: rgb(58, 109, 210);
+  background: rgb(0, 57, 170);
   border-bottom-left-radius: 20px;
   display: flex;
   align-items: center;
